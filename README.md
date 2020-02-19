@@ -8,7 +8,7 @@
 ### 1. Installation
 
 ```{r}
-devtools::install_github("nelsonroque/RM2C2_dev", force=T)
+devtools::install_github("nelsonroque/dev_rm2c2", force=T)
 ```
 
 ### 2. Load the installed pacakge.
